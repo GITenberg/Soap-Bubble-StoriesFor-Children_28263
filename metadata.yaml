@@ -1,0 +1,33 @@
+_repo: Soap-Bubble-StoriesFor-Children_28263
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barry, Fanny
+    gutenberg_agent_id: '33234'
+    url: http://www.gutenberg.org/2009/agents/33234
+description: ''
+gutenberg_issued: '2009-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+tableOfContents: The troll in the church fountain -- The imp in the chintz curtain
+  -- Heartsease -- A story of Siena -- The stone-maiden -- The grass of Parnassus
+  -- The hedgehog's coffee party -- Uncle Volodia -- The angel and the lilies -- The
+  alphen-echo -- The scroll in the market place -- A scrap of Etruscan pottery --
+  The goats on the glacier -- The great lady's chief-mourner -- Dame Fossie's China
+  dog -- Princess Sidigunda's golden shoes -- The badger's school -- Bobbie's two
+  shillings.
+title: 'Soap-Bubble Stories
+
+  For Children'
+url: http://www.gutenberg.org/ebooks/28263
